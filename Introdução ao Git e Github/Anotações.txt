@@ -1,0 +1,5 @@
+Link do Git Bash: https://git-scm.com/downloads
+Programa GitBash terminal para Windows.
+
+Link do Markdown Guide: https://www.markdownguide.org/basic-syntax/
+Sintaxe Básica Os elementos Markdown descritos no documento de design.
